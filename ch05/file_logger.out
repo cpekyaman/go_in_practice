@@ -1,0 +1,2 @@
+log example 2020/05/11 20:56:32 file_logger.go:14: This is log hello
+log example 2020/05/11 20:56:32 file_logger.go:15: This is another log

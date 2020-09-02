@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option go_package = "github.com/cpekyaman/go_in_practice/ch10/proto";
+
+package proto.goip.ch10;
+
+message user {
+    string name = 1;
+    int32 id = 2;
+    string email = 3;
+}
